@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Ketan Chaudhary's Portfolio
+description: Welcome to my Software and AI/ML portfolio.
+# _config.yml
+include: [assets]
