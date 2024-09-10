@@ -33,8 +33,8 @@ title: Ketan Chaudhary's Portfolio
 
 <h2>Contact</h2>
   <p><strong>Email:</strong> ketan.chaudhary@example.com <i class="fas fa-envelope"></i></p>
-  <p><a href="https://github.com/your-username"><i class="fab fa-github"></i> GitHub</a></p>
-  <p><a href="https://www.linkedin.com/in/ketan-chaudhary/"><i class="fab fa-linkedin"></i> LinkedIn</a></p>
+  <p><a href="https://github.com/ketanML"><i class="fab fa-github"></i> GitHub</a></p>
+  <p><a href="https://www.linkedin.com/in/ketanc79/"><i class="fab fa-linkedin"></i> LinkedIn</a></p>
 
 <button>Contact Me</button>
 </div>
