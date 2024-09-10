@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Ketan Chaudhary's Portfolio
 ---
 
 <div class="container">
@@ -27,25 +28,10 @@ I'm a **Machine Learning Engineer** with a strong background in software enginee
 </div>
 
 ## Contact
-- **Email:** ketan.chaudhary@example.com
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://www.linkedin.com/in/ketan-chaudhary/)
-
-## Contact
 - **Email:** ketan.chaudhary@example.com <i class="fas fa-envelope"></i>
 - [GitHub](https://github.com/your-username) <i class="fab fa-github"></i>
 - [LinkedIn](https://www.linkedin.com/in/ketan-chaudhary/) <i class="fab fa-linkedin"></i>
 
 <button>Contact Me</button>
 
-<div class="theme-switch">
-    <label>
-        <input type="checkbox">
-        <span>Dark Mode</span>
-    </label>
-</div>
-
-<footer>
-    © 2024 Ketan Chaudhary
-</footer>
 </div>
