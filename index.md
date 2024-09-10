@@ -4,34 +4,34 @@ title: Ketan Chaudhary's Portfolio
 ---
 
 <div class="container">
-# Welcome to Ketan Chaudhary's Portfolio
+  <h1>Welcome to Ketan Chaudhary's Portfolio</h1>
 
-I'm a **Machine Learning Engineer** with a strong background in software engineering and AI/ML technologies. Here's a snapshot of my work:
+  <p>I'm a <strong>Machine Learning Engineer</strong> with a strong background in software engineering and AI/ML technologies. Here's a snapshot of my work:</p>
 
-## Projects
-<div class="project">
-- **Product Information Management System (PIMS)**
-    - Built a comprehensive product management solution using ASP.NET, Vue.js, and Azure SQL.
-    - [GitHub Repo](#) | [Read More](#)
-</div>
+<h2>Projects</h2>
 
-<div class="project">
-- **Face Classification and Verification**
-    - Developed CNN-based ResNet-34 models for face classification and verification, ranking in the top 5% on Kaggle.
-    - [GitHub Repo](#) | [Read More](#)
-</div>
+  <div class="project">
+    <h3>Product Information Management System (PIMS)</h3>
+    <p>Built a comprehensive product management solution using ASP.NET, Vue.js, and Azure SQL.</p>
+    <a href="#">GitHub Repo</a> | <a href="#">Read More</a>
+  </div>
 
-<div class="project">
-- **Neural Network Phoneme Recognition**
-    - Built an 86% accuracy speech classification model using frame-level classification techniques.
-    - [GitHub Repo](#) | [Read More](#)
-</div>
+  <div class="project">
+    <h3>Face Classification and Verification</h3>
+    <p>Developed CNN-based ResNet-34 models for face classification and verification, ranking in the top 5% on Kaggle.</p>
+    <a href="#">GitHub Repo</a> | <a href="#">Read More</a>
+  </div>
 
-## Contact
-- **Email:** ketan.chaudhary@example.com <i class="fas fa-envelope"></i>
-- [GitHub](https://github.com/your-username) <i class="fab fa-github"></i>
-- [LinkedIn](https://www.linkedin.com/in/ketan-chaudhary/) <i class="fab fa-linkedin"></i>
+  <div class="project">
+    <h3>Neural Network Phoneme Recognition</h3>
+    <p>Built an 86% accuracy speech classification model using frame-level classification techniques.</p>
+    <a href="#">GitHub Repo</a> | <a href="#">Read More</a>
+  </div>
+
+<h2>Contact</h2>
+  <p><strong>Email:</strong> ketan.chaudhary@example.com <i class="fas fa-envelope"></i></p>
+  <p><a href="https://github.com/your-username"><i class="fab fa-github"></i> GitHub</a></p>
+  <p><a href="https://www.linkedin.com/in/ketan-chaudhary/"><i class="fab fa-linkedin"></i> LinkedIn</a></p>
 
 <button>Contact Me</button>
-
 </div>
