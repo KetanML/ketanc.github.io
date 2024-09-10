@@ -1,5 +1,14 @@
-theme: jekyll-theme-cayman
 title: Ketan Chaudhary's Portfolio
-description: Welcome to my Software and AI/ML portfolio.
-# _config.yml
-include: [assets]
+description: Machine Learning Engineer Portfolio
+theme: jekyll-theme-midnight
+
+# Optional: configure links to appear in the site navigation
+# (You can uncomment this section if you want to add a navigation bar)
+#
+# nav_links:
+#   - title: "Home"
+#     url: /
+#   - title: "GitHub"
+#     url: "https://github.com/ketanML"
+#   - title: "LinkedIn"
+#     url: "https://www.linkedin.com/in/ketanc79/"
